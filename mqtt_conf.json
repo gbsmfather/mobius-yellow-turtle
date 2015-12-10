@@ -1,0 +1,11 @@
+{
+    "m2m:mqtt_conf": {
+        "broker": "localhost",
+        "port": "9726",
+        "nmtype": "short",
+        "bodytype": "json",
+        "cbhost": "localhost",
+        "cbport": "7579",
+        "cbname": "mobius-yt"
+    }
+}

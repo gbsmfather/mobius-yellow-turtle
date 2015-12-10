@@ -1,0 +1,22 @@
+{
+    "m2m:conf": {
+        "cbtype": "in",
+        "nmtype": "short",
+        "bodytype": "json",
+        "in-cse": {
+            "cseid": "/0.2.481.1.1.1.1",
+            "csebase": "mobius-yt",
+            "cseport": "7579",
+            "dbhost": "localhost",
+            "dbpass": "dksdlfduq2",
+            "mqttproxy": "localhost",
+            "mqttproxyport": "9726"
+        },
+        "mn-cse": {
+            "cbhost": "203.253.128.150",
+            "cbport": "9000",
+            "cbname": "mobius",
+            "cbcseid": "mobius"
+        }
+    }
+}
